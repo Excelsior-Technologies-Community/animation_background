@@ -1,0 +1,15 @@
+enum BackgroundType {
+  gradient,
+  particles,
+  wave,
+  shapeMorph,
+  bubbles,
+  border,
+  dashed_border,
+  line,
+  grid,
+  noise,
+  radial,
+  star,
+  painter_wave,
+}
