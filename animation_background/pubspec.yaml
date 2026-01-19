@@ -1,7 +1,7 @@
 name: animation_background
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/VajaVishal/animation_background
+homepage: https://github.com/Excelsior-Technologies-Community/Flutter_Animation_Background
 
 environment:
   sdk: ^3.8.1
